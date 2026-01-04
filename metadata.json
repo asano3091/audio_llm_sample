@@ -1,0 +1,5 @@
+{
+  "name": "audio_extractor_sample",
+  "description": "An intelligent tool to transcribe WAV files and automatically extract caller details like name, phone number, and gender estimation using Gemini AI.",
+  "requestFramePermissions": []
+}
